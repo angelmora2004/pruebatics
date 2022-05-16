@@ -1,2 +1,3 @@
 Prueba de archivo 
 Angel Mora 
+codificando funcion para imprimir los resultados 
